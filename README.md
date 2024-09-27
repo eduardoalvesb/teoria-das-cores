@@ -1,1 +1,1 @@
-# teoria-das-cores
+Minha ideia na hora de escolher as cores do meu site, foi tentar deixar ele harmônico. Por isso, peguei como referencia uma paleta de cores do site "Color Hunt" recomendado pelo professor. O azul foi escolhido por ser uma cor fria, que na minha opinião chama atenção e combina com a tematica do site. A cor do fundo é parecido com um creme, que da destaque ao azul.
